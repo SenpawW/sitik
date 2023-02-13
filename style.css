@@ -1,0 +1,53 @@
+.mainhead{
+    color: white;
+    text-align: center;
+}
+
+.header{
+    background-image: url("https://profchoice.ru/wp-content/uploads/2019/11/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82-1.jpg");
+    box-shadow: 1px 1px 15px 5px rgb(34, 34, 34);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 155px;
+    border-radius: 50px;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.carousel{
+    margin-left: 25%;
+}
+
+div.center{
+    margin: 0 auto;
+}
+
+.box2{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+    font-size: 250%;
+    font-weight: 500;
+}
+
+.bd-callout{
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    background-color: var(--bd-callout-bg, var(--bs-gray-100));
+    border-left: 1.0rem solid var(--bd-callout-border, var(--bs-gray-300))
+}
+
+.bd-callout-info {
+    --bd-callout-bg: rgba(var(--bs-info-rgb), .075);
+    --bd-callout-border: rgba(var(--bs-info-rgb), .5);
+}
+
+.box1{
+    border: 4px solid rgb(109, 230, 28);
+    border-radius: 10px;
+}
